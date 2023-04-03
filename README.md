@@ -5,7 +5,8 @@ Here I have used Machine Learning using these two methods :
     Logistic Regression 
     Descision Tree
     
-    
+
+We have to Classify which species of iris flower does data belong to by analyzing the petal and sepal its length and breadth side by side
 
 The data has been taken from Kaggle site the link is : https://www.kaggle.com/datasets/uciml/iris
 
